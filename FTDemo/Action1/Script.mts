@@ -9,4 +9,5 @@ Browser("Mutual Funds | Investments").Page("Open an account - Franklin").WebRadi
 Browser("Mutual Funds | Investments").Page("Open an account - Franklin").WebButton("Next").Click @@ hightlight id_;_Browser("Mutual Funds | Investments").Page("Open an account - Franklin").WebButton("Next")_;_script infofile_;_ZIP::ssf38.xml_;_
 Browser("Mutual Funds | Investments").Page("Open an account - Franklin_2").WebButton("Next").Click @@ hightlight id_;_Browser("Mutual Funds | Investments").Page("Open an account - Franklin 2").WebButton("Next")_;_script infofile_;_ZIP::ssf39.xml_;_
 Browser("Mutual Funds | Investments").Page("Open an Account").WebRadioGroup("optactiveUser").Select "No" @@ hightlight id_;_Browser("Mutual Funds | Investments").Page("Open an Account").WebRadioGroup("optactiveUser")_;_script infofile_;_ZIP::ssf40.xml_;_
+wait(2)
 Browser("Mutual Funds | Investments").Page("Open an Account").WebButton("Next").Click @@ hightlight id_;_Browser("Mutual Funds | Investments").Page("Open an Account").WebButton("Next")_;_script infofile_;_ZIP::ssf41.xml_;_
